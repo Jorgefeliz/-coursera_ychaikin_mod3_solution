@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+  }
+
+.navbar-brand 
+{
+    font-size: 2.2em;
+    margin-top: 10px;
+  
+    font-weight: bold;
+
+}
+
+
+
+#menu-item 
+{
+    background-color: rgb(226, 226, 226);
+    padding-bottom: 10px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+#menu-item h3
+{
+
+    font-weight: bold;
+}
+
+.row
+ {
+ 
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    float: right;
+  
+
+}
+
+
+#header-nav {
+
+    border-radius: 0;
+    border: 0;
+  }
+  
+  .navbar-brand h1 { /* Restaurant name */
+ 
+    color: #4036c7;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+  
+  }
+
+  #collapsable-nav
+  {
+      text-align: center;
+      font-size: 1.2em;
+      font-weight: bold;
+  }
